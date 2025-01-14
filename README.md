@@ -26,8 +26,8 @@ Welcome to the **Priority Task Queue**! This Python-based app helps you manage t
    First, clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/priority-task-queue.git
-   cd priority-task-queue
+   https://github.com/sabarinath404/T0-DO-List.git
+   cd T0-DO-List
    ```
 
 2. **Install Python**:  
